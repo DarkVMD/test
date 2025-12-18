@@ -1,4 +1,5 @@
-As we know, some people like bananas :D
-add line
-
-commit test
+for i in range(10):
+	if i >= 5
+		print("bruh")
+	else:
+		print("hurb")
